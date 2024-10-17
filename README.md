@@ -32,3 +32,18 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/CaseShifter.git
    cd CaseShifter
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+
+3. Start the development server:
+
+   ```bash
+   npm start
+
+4.
+    ```bash
+    Open your browser and navigate to http://localhost:3000/ to view the application.
+  
