@@ -46,4 +46,10 @@ Ensure you have the following installed:
 4.  Open your browser and navigate to
     ```bash
     http://localhost:3000/
-  
+
+### Usage
+1. Enter your text in the provided text box.
+2. View real-time updates of word and character counts.
+3. Use the “Remove Extra Spaces” button to clean up unnecessary spaces in your text.
+4. Toggle case conversion (uppercase/lowercase) using the CaseShifter tool.
+5. Switch between dark mode and light mode for a personalized experience.
