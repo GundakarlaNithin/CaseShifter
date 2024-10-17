@@ -43,7 +43,8 @@ Ensure you have the following installed:
    ```bash
    npm start
 
-4.
+4.  Open your browser and navigate to
     ```bash
-    Open your browser and navigate to http://localhost:3000/ to view the application.
+    Open your browser and navigate to http://localhost:3000/
+   to view the application.
   
